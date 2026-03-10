@@ -99,9 +99,7 @@ CALL autenticateUser('joao@email.com', 'senha123');
 1. **Clone ou acesse o repositório:**
 
 ```bash
-git clone https://www.github.com/AdolfoFigueiredo/sqlAutentication.git
-
-cd sqlAutentication
+git clone https://github.com/AdolfoFigueiredo/SQL_Autentication
 ```
 
 2. **Execute o script de inicialização:**
